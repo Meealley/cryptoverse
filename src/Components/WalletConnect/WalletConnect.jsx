@@ -33,6 +33,7 @@ const WalletConnect = () => {
       console.log("client", web3wallet);
     } catch (error) {
       console.log(error);
+      
     }
   }
   useEffect(() => {
