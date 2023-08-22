@@ -1,0 +1,8 @@
+.box::before {
+    content: " ";
+    position: absolute;
+    background: linear-gradient(#04b0ee,20deg, transparent,120deg);
+    width: 450px;
+    height: 400px;
+top: -25%
+}
